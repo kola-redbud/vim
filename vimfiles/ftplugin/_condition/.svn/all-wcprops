@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1032/trunk/dist/ftplugin/_condition
+END
+ecma.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/807/trunk/dist/ftplugin/_condition/ecma.xpt.vim
+END
+c.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1032/trunk/dist/ftplugin/_condition/c.like.xpt.vim
+END
+lisp.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/807/trunk/dist/ftplugin/_condition/lisp.like.xpt.vim
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1040/trunk/dist/ftplugin/_loops
+END
+c.while.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1032/trunk/dist/ftplugin/_loops/c.while.like.xpt.vim
+END
+for.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1040/trunk/dist/ftplugin/_loops/for.xpt.vim
+END
+foreach.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/152/trunk/dist/ftplugin/_loops/foreach.xpt.vim
+END
+java.for.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1040/trunk/dist/ftplugin/_loops/java.for.like.xpt.vim
+END
+c.for.like.xpt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1032/trunk/dist/ftplugin/_loops/c.for.like.xpt.vim
+END
